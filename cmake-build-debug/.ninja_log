@@ -1,7 +1,9 @@
 # ninja log v6
-1	486	1728641896613897270	CMakeFiles/untitled1.dir/main.cpp.o	2573b250bca90c01
 561	621	1728641897173897231	untitled1	4c8e4fa349bf586
-2	526	1728634414716478200	CMakeFiles/untitled1.dir/Complex.cpp.o	de7611a16e1bc3a6
-1	561	1728641896613897270	CMakeFiles/untitled1.dir/Point.cpp.o	ab52d9d82f6fc4b6
-3	922	1728294394300562873	CMakeFiles/untitled1.dir/Singleton.cpp.o	cae0f55002bdd1a9
-1	561	1728641896613897270	CMakeFiles/untitled1.dir/Cercle.cpp.o	cc9263657d41c8ba
+1	23	1728645968853613768	build.ninja	711a2005abb46bbf
+1	705	1728645968860613768	CMakeFiles/TD1_OOP.dir/source/Cercle.cpp.o	91f852d5d600d5a0
+0	708	1728645968859613768	CMakeFiles/TD1_OOP.dir/main.cpp.o	b68368cfb622fa59
+0	712	1728645968859613768	CMakeFiles/TD1_OOP.dir/source/Singleton.cpp.o	fd8ad93b4feaa067
+0	720	1728645968859613768	CMakeFiles/TD1_OOP.dir/source/Complex.cpp.o	ce210608ad8c8fda
+1	759	1728645968860613768	CMakeFiles/TD1_OOP.dir/source/Point.cpp.o	8acaf7b4ea8499a3
+759	837	1728645969618613715	TD1_OOP	844d9871872bc31b
